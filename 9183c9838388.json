@@ -1,0 +1,80 @@
+{
+  "name": "Starter",
+  "game_version": null,
+  "created_by": "SylverYokai",
+  "mods": [
+    {
+      "name": "Ryoshu",
+      "version": "0.2.8",
+      "source": null,
+      "hash": "0cffff9da9c76fa859744c6249567cc9e55d9131a0e9c3e0c50c212c93f680ec",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true,
+      "bundle_url": "https://github.com/SylverYokai/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.2.8_4ba435a5.zip",
+      "bundle_sha256": "4ba435a58d96f14eb17ffd9ace800bdebd0875aea814e68ea8095206686832c1"
+    },
+    {
+      "name": "LustTravel2 Bundle v0.15.0",
+      "version": "0.15.0",
+      "source": null,
+      "hash": null,
+      "files": [
+        "LustTravel2 Bundle v0.15.0/.sts2mm-bundle.json",
+        "LustTravel2 Bundle v0.15.0/DevMode/DevMode.dll",
+        "LustTravel2 Bundle v0.15.0/DevMode/DevMode.pck",
+        "LustTravel2 Bundle v0.15.0/DevMode/editor/editor/app.js",
+        "LustTravel2 Bundle v0.15.0/DevMode/editor/editor/blocks.js",
+        "LustTravel2 Bundle v0.15.0/DevMode/editor/editor/generators.js",
+        "LustTravel2 Bundle v0.15.0/DevMode/editor/editor/i18n.js",
+        "LustTravel2 Bundle v0.15.0/DevMode/editor/editor/index.html",
+        "LustTravel2 Bundle v0.15.0/DevMode/mod_image.png",
+        "LustTravel2 Bundle v0.15.0/DevMode/mod_image.png.import",
+        "LustTravel2 Bundle v0.15.0/DevMode/mod_manifest.json",
+        "LustTravel2 Bundle v0.15.0/LustTravel2/LustTravel2.dll",
+        "LustTravel2 Bundle v0.15.0/LustTravel2/LustTravel2.pck",
+        "LustTravel2 Bundle v0.15.0/LustTravel2/mod_manifest.json",
+        "LustTravel2 Bundle v0.15.0/LustTravel2_Patch/LustTravel2_Patch.dll",
+        "LustTravel2 Bundle v0.15.0/LustTravel2_Patch/LustTravel2_Patch.pck",
+        "LustTravel2 Bundle v0.15.0/LustTravel2_Patch/mod_manifest.json",
+        "LustTravel2 Bundle v0.15.0/STS2-RitsuLib/mod_manifest.json",
+        "LustTravel2 Bundle v0.15.0/STS2-RitsuLib/STS2-RitsuLib.dll",
+        "LustTravel2 Bundle v0.15.0/STS2-RitsuLib/STS2-RitsuLib.runtimeconfig.json"
+      ],
+      "folder_name": "LustTravel2 Bundle v0.15.0",
+      "enabled": true,
+      "bundle_url": "https://github.com/SylverYokai/sts2mm-profiles/releases/download/bundles/LustTravel2_Bundle_v0_15_0_v0.15.0_526f2d70.zip",
+      "bundle_sha256": "526f2d701c40be58af4b71fc30a1f2186c3fc9478b584a5a2d8b42ab22c50988",
+      "bundle_members": [
+        "DevMode",
+        "LustTravel2",
+        "LustTravel2 Patch",
+        "RitsuLib (STS2 0.103.2 compat)"
+      ]
+    },
+    {
+      "name": "Kafka",
+      "version": "v0.12.2",
+      "source": null,
+      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/SylverYokai/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_224d3f7e.zip",
+      "bundle_sha256": "224d3f7e85336730dbfde71b6be14149ae6230716f23dec34575961ce0f64a8f"
+    }
+  ],
+  "created_at": "2026-06-08T03:37:01.309323200Z",
+  "updated_at": "2026-06-08T03:58:58.823658700Z",
+  "public": false
+}
